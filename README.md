@@ -1,4 +1,4 @@
-### <img src="https://github.com/vanGalilea/vanGalilea/blob/main/hi.gif" height="30px"> Hi I'm Nikhil! 
+### <img src="https://github.com/saxenanickk/saxenanickk/blob/main/hi.gif" height="30px"> Hi I'm Nikhil! 
 
 - I’m currently working as a engineering consultant on several projects, but I also work on many other hobby projects that I started and didn't have the time to finish.
 - Currently working with:
